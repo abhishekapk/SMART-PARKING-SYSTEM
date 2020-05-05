@@ -1,7 +1,7 @@
 <h1 align="center">SMART-PARKING-SYSTEM</h1>
 <br>
 <p align="center">
-  <a href="https://github.com/HarshCasper/Malaria-Detection">
+  <a href="https://github.com/abhishekapk/SMART-PARKING-SYSTEM">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfaTiGrhKrZ__y70ByRq6I8cSW2m8EMRTGhlCGGP0KpXQQde5R&usqp=CAU" alt="Logo" width="auto" height="auto">
   </a></p>
 <br>
