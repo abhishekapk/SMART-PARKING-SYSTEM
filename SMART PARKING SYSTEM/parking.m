@@ -5,8 +5,8 @@
 %SHREYA SINGH          MMMUT GORAKHPUR
 % ASHISH SINGH         AIT KANPUR
 
-image = imread('C:\Users\hp\Documents\MATLAB\car.jpg'); %To read Cars parked in parking area.
-background = imread('C:\Users\hp\Documents\MATLAB\bg.jpg'); %To read background image or initial image of parking area
+image = imread('C:\Users\Hp\Documents\MATLAB\car.jpg'); %To read Cars parked in parking area.
+background = imread('C:\Users\Hp\Documents\MATLAB\bg.jpg'); %To read background image or initial image of parking area
 img = double(rgb2gray(image));%convert to gray
 bg = double(rgb2gray(background));%convert 2nd image to gray
 [height width] = size(img); %image size?
